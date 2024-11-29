@@ -18,7 +18,7 @@ pip install -r requirements.txt
 2. Sigue el flujo del análisis ejecutando las celdas en el orden indicado.
 
 ## 🌸 Contacto
-¿Dudas, comentarios o simplemente quieres conectar? Encuéntrame en LinkedIn 💼. ¡Será un placer hablar contigo! 🚀
+¿Dudas, comentarios o simplemente quieres conectar? Encuéntrame en **[LinkedIn](https://www.linkedin.com/in/ariet-michal/)** 💼. ¡Será un placer hablar contigo! 🚀
 
 ## 🛟 Agradecimiento
 Gracias por visitar este proyecto. Espero que te sea útil para tus aprendizajes y que disfrutes explorando el Titanic Dataset. 🌷✨
